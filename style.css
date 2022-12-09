@@ -1,0 +1,72 @@
+html {
+  font-size: 16px;
+  overflow-x: hidden;
+}
+
+body {
+  background: url(/img/cream_dust.png) repeat 0 0;
+  font-family: "Inter", sans-serif;
+  height: 100vh;
+}
+
+#capstone-food-insecurity-analysis {
+  text-align: center;
+  font-size: 40px;
+  padding-bottom: 20px;
+}
+
+#description {
+  font-size: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 20px;
+}
+
+select {
+  display: inline-block;
+  width: 140px;
+  height: 35px;
+  padding: 5px 35px 5px 5px;
+  font-size: 14px;
+  font-family: "Poppins", sans-serif;
+  font-weight: small;
+  cursor: pointer;
+  margin-left: 5 px;
+  position: absolute;
+  right: 0;
+  left: auto;
+  box-shadow: 0 10px 15px -3px rgba(46, 41, 51, 0.08),
+  0 4px 6px -2px rgba(71, 63, 79, 0.16);
+  z-index: 99;
+  min-width: 10rem;
+  background-color: #fff;
+  border-radius: 0 0 0.5rem 0.5rem; 
+
+}
+
+.submitButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
+}
+
+button {
+  height: 25px;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  align-items: center
+  
+}
+
+#v1 {
+  text-align: center;
+}
+
+object {
+  height: 2000ox;
+}
