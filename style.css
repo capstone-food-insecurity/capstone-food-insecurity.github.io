@@ -56,3 +56,7 @@ object {
   margin-right: auto;
   width: 50%;
 }
+
+#cmd {
+  text-align: center;
+}
